@@ -12,6 +12,19 @@ constResistence1 = [-1 ,5 ,6, 3] ;
 constResistence2 = [14, 3.5 ,6 ];
 constResistence3 = [8, 15, 100 ];
 
+suma = 0;
+
+for (let i = 0; i < constResistence2.length; i++) {
+     suma += constResistence1[i]; 
+    
+}
+
+
+
+
+
+
+
 
 let suma = 0; // Se declara suma como variable que va a empezar desde 0.
 for (let i = 0; i < constResistence1.length; i++ ){ //se crea el bucle que va a empezar desde el index 0 y va a recorrer cada una de las variables del array

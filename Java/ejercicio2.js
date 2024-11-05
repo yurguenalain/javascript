@@ -14,3 +14,7 @@ let resultado = numDiv(10);
 console.log(resultado, resultado);
 
 }
+
+
+
+
